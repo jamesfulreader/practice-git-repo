@@ -7,3 +7,5 @@ function addNums() {
 }
 
 createAlert();
+
+// comments about some code not important
