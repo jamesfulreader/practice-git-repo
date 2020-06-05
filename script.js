@@ -7,6 +7,3 @@ function addNums() {
 }
 
 createAlert();
-addNums();
-
-console.log('javascript is really cool!');
